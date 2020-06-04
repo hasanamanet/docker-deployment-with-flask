@@ -1,5 +1,5 @@
 # docker-deployment-with-flask
-Gelistirilen makine ogrenmesi modeli Docker Container yapisiyla deploy edilmesine ornek bir uygulamadir.
+Gelistirilen makine ogrenmesi modelinin Docker Container yapisiyla deploy edilmesine ornek bir uygulamadir.
 
 
 Model gelistirme surecini [ML-Deployment](hhttps://github.com/hasanamanet/ML-Deployment/tree/master/modeling) adresinden inceleyebilirsiniz.

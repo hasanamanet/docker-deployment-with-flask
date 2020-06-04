@@ -2,7 +2,7 @@
 Gelistirilen makine ogrenmesi modelinin Docker Container yapisiyla deploy edilmesine ornek bir uygulamadir.
 
 
-Model gelistirme surecini [ML-Deployment]:(hhttps://github.com/hasanamanet/ML-Deployment/tree/master/modeling) adresinden inceleyebilirsiniz.
+Model gelistirme surecini [ML-Deployment](https://github.com/hasanamanet/ML-Deployment/tree/master/modeling) adresinden inceleyebilirsiniz.
 
 
 # Docker ile ilgili temel kavramlar: 

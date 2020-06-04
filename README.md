@@ -12,8 +12,8 @@ Docker'da olusturacaginiz container icin gerekli olan temel dosyalar sunlardir:
 - app.py
 - requirements.txt
 <br> seklindedir.<br>
+=====<br>
 model.pkl: Gelistirdigimiz modelin kaydedildigi pickle dosyasi. <br>
-
 Dockerfile: Docker kosturulacak Containerlarin yapisini olusturan her image bir Dockerfile ile tanimlanmasi gerekmektedir. Dockerfile icersinde image'in hangi image baz aldigi hangi dosyalari icerdigi ve hangi uygulamanin hangi parametrelerle calistiralacagi verilmektedir.<br>
 app.py: Gelistirilen modelin canliya alinmasi Flask kodunun yer aldigi dosya.<br>
 requirements.txt: Docker Containerde kosturulacak uygulamanin Python kodlarini sorunsuz sekilde calistirmasi icin ihtiyac duydugu Python kutuphanelerinin yer aldi txt dosyasi. (Bu dosya olusturulurken gelistirme ortaminda kullanilan kutuphanelerin surum bilgisinin de paylasilmasi faydali olacaktir. Ornegin; pandas==0.25.0 gibi)<br>

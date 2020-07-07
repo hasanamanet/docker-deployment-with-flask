@@ -1,3 +1,4 @@
 flask
 flask_restful
 sklearn
+numpy==1.13

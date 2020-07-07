@@ -19,7 +19,7 @@ class TextClassification(Resource):
 		args = parser.parse_args()
 		user_query = args['query']
 
-		classes = np.array(["Magazin","Dünya","Spor","Siyaset","Kültür-Sanat","Teknoloji"])
+		class_name = np.array(["Magazin","Dünya","Spor","Siyaset","Kültür-Sanat","Teknoloji"])
 		prediction = text_classifier.predict([user_query])[0]
 		
 		output = {'Prediction': class_name[prediction]}

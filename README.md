@@ -1,4 +1,5 @@
 # docker-deployment-with-flask
+Python 3.6 vesiyonuna gore duzenlenmistir.
 Gelistirilen makine ogrenmesi modelinin Docker Container yapisiyla deploy edilmesine ornek bir uygulamadir.
 
 
